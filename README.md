@@ -1,26 +1,18 @@
-🛒 Ecommerce Sales Dashboard | Power BI
 This repository contains an insightful and interactive Ecommerce Sales Dashboard built using Microsoft Power BI. The dashboard transforms raw sales data into actionable business insights, helping stakeholders understand key metrics and make data-driven decisions.
 
 📊 Dashboard Overview
-The Ecommerce Sales Dashboard enables users to:
+The Ecommerce Sales Dashboard enables users to:  
 
-✅ Track sales performance by product category, month, and payment mode
+✅ Track sales performance by product category, month, and payment mode  
+✅ Use interactive filters and slicers for in-depth analysis  
+✅ Explore customized visualizations like:  
 
-✅ Use interactive filters and slicers for in-depth analysis
-
-✅ Explore customized visualizations like:
-
-Bar Charts
-
-Pie Charts
-
-Donut Charts
-
-Clustered Bar Charts
-
-Line Charts
-
-Slicers
+   • Bar Charts    
+   • Pie Charts  
+   • Donut Charts  
+   • Clustered Bar Charts  
+   • Line Charts  
+   • Slicers  
 
 🧠 What I Learned
 Working on this project helped me:
