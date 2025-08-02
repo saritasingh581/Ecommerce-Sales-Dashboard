@@ -14,35 +14,31 @@ The Ecommerce Sales Dashboard enables users to:
     • Line Charts  
     • Slicers  
 
-🧠 What I Learned
-Working on this project helped me:
+🧠 What I Learned  
+    Working on this project helped me:  
 
-🔹 Improve my data cleaning and transformation skills in Power BI
+🔹 Improve my data cleaning and transformation skills in Power BI  
+🔹 Understand how to design dashboards that are both informative and visually appealing  
+🔹 Learn to communicate key business insights effectively through visual storytelling  
 
-🔹 Understand how to design dashboards that are both informative and visually appealing
+📁 Project Files  
 
-🔹 Learn to communicate key business insights effectively through visual storytelling
+ - Ecommerce_Sales_Dashboard.pbix – Power BI dashboard file   
+ - Screenshots/ – Folder containing dashboard preview images  
 
-📁 Project Files
-Ecommerce_Sales_Dashboard.pbix – Power BI dashboard file
+📷 Dashboard Preview  
 
-Raw_Sales_Data.xlsx – Sample dataset used for the project (if applicable)
+https://1drv.ms/i/c/3d00aa50fbba3fef/EafTNjW0yfJAiHEOG1Ef6ycBFYzkQ-T0Rvg8za5VdBGk9Q?e=eY765m  
 
-Screenshots/ – Folder containing dashboard preview images
+🚀 How to Use  
 
-📷 Dashboard Preview
-(Add screenshots of your dashboard here to give users a visual idea of what it looks like)
+1. Clone the repository:
 
-🚀 How to Use
-Clone the repository:
+bash  
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/ecommerce-sales-dashboard-powerbi.git
-Open the .pbix file using Microsoft Power BI Desktop
-
-Explore the dashboard and interact with the visuals!
+git clone https://github.com/saritasingh581/ecommerce-sales-dashboard-powerbi.git  
+2. Open the .pbix file using Microsoft Power BI Desktop  
+3. Explore the dashboard and interact with the visuals!
 
 📌 Key Features
 Clean and user-friendly interface
