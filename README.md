@@ -7,12 +7,12 @@ The Ecommerce Sales Dashboard enables users to:
  ✅ Use interactive filters and slicers for in-depth analysis  
  ✅ Explore customized visualizations like:  
 
-   • Bar Charts    
-   • Pie Charts  
-   • Donut Charts  
-   • Clustered Bar Charts  
-   • Line Charts  
-   • Slicers  
+    • Bar Charts    
+    • Pie Charts  
+    • Donut Charts  
+    • Clustered Bar Charts  
+    • Line Charts  
+    • Slicers  
 
 🧠 What I Learned
 Working on this project helped me:
