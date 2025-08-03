@@ -24,38 +24,26 @@ The Ecommerce Sales Dashboard enables users to:
 📁 Project Files  
 
  - Ecommerce_Sales_Dashboard.pbix – Power BI dashboard file   
- - Screenshots/ – Folder containing dashboard preview images  
+ - Screenshots – Folder containing dashboard preview images
+ - README.md - Project description
 
 📷 Dashboard Preview  
 
-https://1drv.ms/i/c/3d00aa50fbba3fef/EafTNjW0yfJAiHEOG1Ef6ycBFYzkQ-T0Rvg8za5VdBGk9Q?e=eY765m  
+   https://1drv.ms/i/c/3d00aa50fbba3fef/EafTNjW0yfJAiHEOG1Ef6ycBFYzkQ-T0Rvg8za5VdBGk9Q?e=eY765m  
 
-🚀 How to Use  
+📌 Key Features  
+   
+  - Clean and user-friendly interface  
+  - Dynamic filtering options  
+  - Granular analysis across time periods and categories    
+  - Custom visualizations for better storytelling  
 
-1. Clone the repository:
+📈 Business Impact  
+   This dashboard empowers ecommerce businesses to:  
 
-bash  
+ - Monitor key sales KPIs  
+ - Identify top-performing categories  
+ - Analyze customer preferences by payment methods  
+ - Spot sales trends over time
 
-git clone https://github.com/saritasingh581/ecommerce-sales-dashboard-powerbi.git  
-2. Open the .pbix file using Microsoft Power BI Desktop  
-3. Explore the dashboard and interact with the visuals!
-
-📌 Key Features
-Clean and user-friendly interface
-
-Dynamic filtering options
-
-Granular analysis across time periods and categories
-
-Custom visualizations for better storytelling
-
-📈 Business Impact
-This dashboard empowers ecommerce businesses to:
-
-Monitor key sales KPIs
-
-Identify top-performing categories
-
-Analyze customer preferences by payment methods
-
-Spot sales trends over time
+   
